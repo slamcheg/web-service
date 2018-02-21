@@ -18,6 +18,8 @@
 На данный момен сервис реализовывает контроллер : `Proxy\Service\Controllers\DefaultController.php`
 который обращаеться к `GitHub Search Api` c помощью `Guzzle\Client`
 
+На реализацию было потрачено 4-5 часов
+
 Для тестирования сервиса необходимо:
 
 - git clone https://github.com/slamcheg/web-service.git
